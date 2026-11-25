@@ -2,8 +2,8 @@
   "fuente": "elTOQUE (referencia estimada)",
   "moneda_base": "CUP",
   "actualizado": {
-    "fecha": "2026-11-24",
-    "hora": "18:59:51"
+    "fecha": "2026-11-25",
+    "hora": "02:14:37"
   },
   "tasas": {
     "BNB": {
@@ -12,27 +12,27 @@
     },
     "BTC": {
       "valor": 801.14,
-      "cambio_vs_ayer_pct": 0.25
+      "cambio_vs_ayer_pct": 0
     },
     "ECU": {
       "valor": 1035,
-      "cambio_vs_ayer_pct": 0.49
-    },
-    "MLC": {
-      "valor": 815.43,
-      "cambio_vs_ayer_pct": -0.66
-    },
-    "TRX": {
-      "valor": 413.19,
-      "cambio_vs_ayer_pct": 0.26
-    },
-    "USD": {
-      "valor": 970,
       "cambio_vs_ayer_pct": 0
     },
+    "MLC": {
+      "valor": 810.43,
+      "cambio_vs_ayer_pct": 0
+    },
+    "TRX": {
+      "valor": 411.75,
+      "cambio_vs_ayer_pct": -0.35
+    },
+    "USD": {
+      "valor": 985.31,
+      "cambio_vs_ayer_pct": 1.58
+    },
     "USDT_TRC20": {
-      "valor": 1150,
-      "cambio_vs_ayer_pct": -1.29
+      "valor": 1119.85,
+      "cambio_vs_ayer_pct": -3.46
     }
   }
 }
