@@ -3,7 +3,7 @@
   "moneda_base": "CUP",
   "actualizado": {
     "fecha": "2026-11-26",
-    "hora": "14:19:13"
+    "hora": "20:32:15"
   },
   "tasas": {
     "BNB": {
@@ -23,16 +23,16 @@
       "cambio_vs_ayer_pct": -0.63
     },
     "TRX": {
-      "valor": 407.48,
-      "cambio_vs_ayer_pct": -0.68
+      "valor": 413.73,
+      "cambio_vs_ayer_pct": 0.84
     },
     "USD": {
       "valor": 980,
       "cambio_vs_ayer_pct": 0.51
     },
     "USDT_TRC20": {
-      "valor": 1155.67,
-      "cambio_vs_ayer_pct": -0.16
+      "valor": 1162.5,
+      "cambio_vs_ayer_pct": 0.43
     }
   }
 }
